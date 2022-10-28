@@ -1,1 +1,1 @@
-
+El módulo de photoresistor consiste en mostrar al usuario cuanta luz se encuentra captando dependiendo su ubicación, es decir, visualizar un porcentaje de luz considerando que tan alejado se encuentra el sensor de la fuente de luz. Para su conocimiento se acuden a las librerías Pin, ADC y sleep para las conexiones del sensor con la Raspberry Pi Pico W, conversiones de señales análogas en digitales y el tiempo de respuesta para mostrar el porcentaje de luz entre los periodos de tiempo.
