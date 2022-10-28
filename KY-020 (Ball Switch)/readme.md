@@ -1,1 +1,1 @@
-
+Para el sensor de ball switch despliega resultados al momento de que el usuario agite el sensor una vez que se haya conectado a la Raspberry Pi Pico W; al igual que el sensor de inclinación literalmente lleva a cabo las mismas conexiones: señal, voltaje y tierra, por lo que para su elaboración no es nada complicado de realizar, y del lado del código se utilizan las mismas librerías (Pin y time).
