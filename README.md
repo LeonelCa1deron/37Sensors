@@ -1,2 +1,3 @@
-# 37Sensors
-Equipo de 8 int. (Sistemas Programables)
+# 37Sensors (Sistemas Programables)
+## Integrantes de Equipo:
+* 
