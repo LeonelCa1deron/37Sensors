@@ -1,1 +1,1 @@
-
+El sensor de inclinación cuenta con lo que es un pequeño frasco, y dentro de este una pelotita. Al momento de que la pelotita se ubique en un punto extremo dentro del frasco, en el resultado del programa deberá de mostrar que hubo inclinación con el sensor o de igual forma no la hubo. Para su conexión con la Raspberry Pi Pico W se deberán de conectar los pines de: tierra, voltaje y la señal; lo cual sabiendo esto se requerirán las librerías Pin y time para poder obtener dichos resultados.
