@@ -1,0 +1,2 @@
+El sensor Big Sound consiste en poder captar cualquier sonido a su alrededor, de manera que una vez se emita este muestre resultados en el programa de Thonny, 
+dependiendo de la gravedad del sonido se reflejan los resultados si fue mayor o menor el nivel.
